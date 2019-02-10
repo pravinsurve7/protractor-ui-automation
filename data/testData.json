@@ -1,0 +1,26 @@
+{
+    "language": "English",
+    "general": {
+        "firstName": "Pravin",
+        "lastName": "Surve",
+        "email": "pravin<temp>@gmail.com",
+        "phone": {
+            "countryCode": "United Kingdom",
+            "number": "9892632589"
+        }
+    },
+    "nationality": "France",
+    "birthDate": "28.12.1990",
+    "address": {
+        "line1": "Borivali, Mumbai",
+        "line2": "Maharashtra",
+        "zipCode": "400092",
+        "city": "Mumbai",
+        "state": "Maharashtra",
+        "country": "Ethiopia"
+    },
+    "employmentDetails": {
+        "jobTitle": "QA Engineer",
+        "companyName": "ABC Corp"
+    }
+}
