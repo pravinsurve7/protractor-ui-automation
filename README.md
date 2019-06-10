@@ -14,7 +14,7 @@ Run step 1-3 in one command prompt & use another command prompt for step 4-5
 
 ### Test flow:
 - *BeforeEach* :  If email id is changed in 'testData.json' file then Login to application, if unchanged and has <temp> in email id, this will create new email for Signup.
-- 1st Test case : This test case will fill in all the details provided in 'testData.json'
-- AfterEach : Log out from the application.
-- 2nd Test case : This test case will verify all the fields from the site with data from 'testData.json'
+- *1st Test case* : This test case will fill in all the details provided in 'testData.json'
+- *2nd Test case* : This test case will verify all the fields from the site with data from 'testData.json'
+- *AfterEach* : Log out from the application.
 
